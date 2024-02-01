@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ygFUyxpvTXPXrUNFt/P8+r92NySAeGJZaywPqjNijdod687MS4hIPP2hKTaXsuP/uFYg12yFQzZbMn0cUJWWnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arif_\\source\\repos\\SignalR_First_Project\\SignalR_project_for_Flutter\\SignalR_project_for_Flutter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arif_\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\arif_\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\arif_\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\arif_\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\arif_\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\arif_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\arif_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
