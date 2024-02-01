@@ -1,16 +1,12 @@
-# signalr_first_project
 
-A new Flutter project.
+<h5>LOGIN SAYFASI</h5>
+<img src="https://github.com/arifaydiiin/SignalR_Message_App/assets/65566449/383128d0-d77f-44c5-918c-f3dc835f28dc" width="400" height="790">
+<h5>GİRİŞ YAPMIŞ KULLANICILARIN LİSTESİ</h5>
+<img src="https://github.com/arifaydiiin/SignalR_Message_App/assets/65566449/8d30843a-c51c-4048-8f95-2f4946bfae66" width="400" height="790">
+<img src="https://github.com/arifaydiiin/SignalR_Message_App/assets/65566449/46719b47-2e08-4258-901d-b2250ae631e8" width="1200" height="790">
+<h5>MESAJLAŞMA EKRANI</h5>
+<img src="https://github.com/arifaydiiin/SignalR_Message_App/assets/65566449/7a14a092-b76e-4644-8522-94ba9e3692f4" width="1200" height="790">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
